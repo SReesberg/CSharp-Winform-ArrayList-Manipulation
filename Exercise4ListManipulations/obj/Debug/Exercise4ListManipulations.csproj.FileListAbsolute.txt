@@ -1,0 +1,10 @@
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\bin\Debug\Exercise4ListManipulations.exe.config
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\bin\Debug\Exercise4ListManipulations.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\bin\Debug\Exercise4ListManipulations.pdb
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.MainForm.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.Properties.Resources.resources
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.csproj.GenerateResource.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.exe
+C:\Users\stefa\OneDrive\Desktop\Exam run 2\Exercise4ListManipulations\obj\Debug\Exercise4ListManipulations.pdb
